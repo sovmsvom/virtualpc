@@ -87,8 +87,8 @@ INSTALL THE MOTHERBOARD <ul><li>Slowly move the motherboard into the case while 
 <thumb id="iPowerSupplyScrews" accessLevel="1" linkTo="iPowerSupply">
 	<title>Power Supply</title>
 	<title2>Screws</title2>
-	<smallImg>driveScrews.png</smallImg>
-	<largeImg>cardScrews.png</largeImg>
+	<smallImg>drivescrews.png</smallImg>
+	<largeImg>cardscrews.png</largeImg>
 	<explore></explore>
 </thumb> 
 
@@ -135,8 +135,8 @@ INSTALL THE MOTHERBOARD <ul><li>Slowly move the motherboard into the case while 
 <thumb id="iMoboScrews" accessLevel="0">
 	<title>Motherboard</title>
 	<title2>Screws</title2>
-	<smallImg>mbscrews.png</smallImg>
-	<largeImg>cardScrews.png</largeImg>
+	<smallImg>MBscrews.png</smallImg>
+	<largeImg>cardscrews.png</largeImg>
 	<explore></explore>
 </thumb> 
 
@@ -159,8 +159,8 @@ INSTALL THE MOTHERBOARD <ul><li>Slowly move the motherboard into the case while 
 <thumb id="iNicScrews" accessLevel="1" linkTo="iNic">
 	<title>NIC</title>
 	<title2>Screw</title2>
-	<smallImg>cardScrews.png</smallImg>
-	<largeImg>cardScrews.png</largeImg>
+	<smallImg>cardscrews.png</smallImg>
+	<largeImg>cardscrews.png</largeImg>
 	<explore></explore>
 </thumb> 
 
@@ -175,8 +175,8 @@ INSTALL THE MOTHERBOARD <ul><li>Slowly move the motherboard into the case while 
 <thumb id="iWirelessScrews" accessLevel="1" linkTo="iWireless">
 	<title>Wireless</title>
 	<title2>NIC Screw</title2>
-	<smallImg>cardScrews.png</smallImg>
-	<largeImg>cardScrews.png</largeImg>
+	<smallImg>cardscrews.png</smallImg>
+	<largeImg>cardscrews.png</largeImg>
 	<explore></explore>
 </thumb> 
 
@@ -191,8 +191,8 @@ INSTALL THE MOTHERBOARD <ul><li>Slowly move the motherboard into the case while 
 <thumb id="iVideoScrews" accessLevel="1" linkTo="iVideoCard">
 	<title>Video Adapter</title>
 	<title2>Screw</title2>
-	<smallImg>cardScrews.png</smallImg>
-	<largeImg>cardScrews.png</largeImg>
+	<smallImg>cardscrews.png</smallImg>
+	<largeImg>cardscrews.png</largeImg>
 	<explore></explore>
 </thumb> 
 
@@ -207,8 +207,8 @@ INSTALL THE MOTHERBOARD <ul><li>Slowly move the motherboard into the case while 
 <thumb id="iHDScrews" accessLevel="1" linkTo="iHD">
 	<title>HDD</title>
 	<title2>Screws</title2>
-	<smallImg>driveScrews.png</smallImg>
-	<largeImg>cardScrews.png</largeImg>
+	<smallImg>drivescrews.png</smallImg>
+	<largeImg>cardscrews.png</largeImg>
 	<explore></explore>
 </thumb> 
 
@@ -223,8 +223,8 @@ INSTALL THE MOTHERBOARD <ul><li>Slowly move the motherboard into the case while 
 <thumb id="iDvdScrews" accessLevel="1" linkTo="iDvdDrive">
 	<title>Optical Drive</title>
 	<title2>Screws</title2>
-	<smallImg>driveScrews.png</smallImg>
-	<largeImg>cardScrews.png</largeImg>
+	<smallImg>drivescrews.png</smallImg>
+	<largeImg>cardscrews.png</largeImg>
 	<explore></explore>
 </thumb>
 
@@ -239,8 +239,8 @@ INSTALL THE MOTHERBOARD <ul><li>Slowly move the motherboard into the case while 
 <thumb id="iFloppyScrews" accessLevel="1" linkTo="iFloppyDrive">
 	<title>Floppy Drive</title>
 	<title2>Screws</title2>
-	<smallImg>driveScrews.png</smallImg>
-	<largeImg>cardScrews.png</largeImg>
+	<smallImg>Drivescrews.png</smallImg>
+	<largeImg>cardscrews.png</largeImg>
 	<explore></explore>
 </thumb>
 
@@ -279,8 +279,8 @@ INSTALL THE MOTHERBOARD <ul><li>Slowly move the motherboard into the case while 
 <thumb id="iPanelScrews" accessLevel="1" linkTo="iCasePanels">
 	<title>Panel</title>
 	<title2>Screws</title2>
-	<smallImg>caseScrews.png</smallImg>
-	<largeImg>cardScrews.png</largeImg>
+	<smallImg>casescrews.png</smallImg>
+	<largeImg>cardscrews.png</largeImg>
 	<explore></explore>	
 </thumb>
 
